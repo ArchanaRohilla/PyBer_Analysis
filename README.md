@@ -3,7 +3,7 @@
 ## Project Overview
 
 ## Tools
-
+Python, Matplotlib, NumPy, Pandas, SciPy
 
 ## Summary
 
@@ -17,9 +17,8 @@ sum of fares  is more in urban cities.
 
 
 ### Summary of multiple-line plot for the sum of the fares for each city type:
-	-The plot shows that the sum of fares for urban cities was more than $1700 from Jan 2019 to April 2019 which is more than 
-	 3 times the sum of fares (max value) of the rural cities. The sum of the fares for the suburban was less than $1500 during 
-	 Jan-April 2019. 
-	-The maximum fares was during middle of Feb 2019  to the middle of April 2019 in the urban cities.
-	-During the month of Mar 2019, the sum of fares of the urban cities is at its peak whereas there is an opposite trend in the 
+- The plot shows that the sum of fares for urban cities was more than $1700 from Jan 2019 to April 2019 which is more than 
+3 times the sum of fares (max value) of the rural cities. The sum of the fares for the suburban was less than $1500 during Jan-April 2019. 
+- The maximum fares was during middle of Feb 2019  to the middle of April 2019 in the urban cities.
+- During the month of Mar 2019, the sum of fares of the urban cities is at its peak whereas there is an opposite trend in the 
 	 suburban and the rural cities.
