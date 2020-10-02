@@ -9,11 +9,11 @@ Python, Matplotlib, NumPy, Pandas, SciPy
 
 ## Summary
 
+### Pyber Summary Dataframe
 
 ![alt text](images/summary_dataframe.png)
 
 
-### Pyber Summary Dataframe shows that:
 - The number of rides in the urban cities are about 3 and 13 times more than the suburban and rural cities. Due to which the total 
 sum of fares  is more in urban cities.
 - Average fare per ride is less in the urban cities as compared to the  suburban and the rural cities.
@@ -22,10 +22,11 @@ sum of fares  is more in urban cities.
 - The number of drivers in the urban cities are 5 and 30 times more as compared to the suburban and the rural cities.
 
 
+### Multiple-line plot for the sum of the fares for each city type
+
 ![alt text](images/multiline_plot.png)
 
 
-### Summary of multiple-line plot for the sum of the fares for each city type:
 - The plot shows that the sum of fares for urban cities was more than $1700 from Jan 2019 to April 2019 which is more than 
 3 times the sum of fares (max value) of the rural cities. The sum of the fares for the suburban was less than $1500 during Jan-April 2019. 
 - The maximum fares was during middle of Feb 2019  to the middle of April 2019 in the urban cities.
