@@ -1,6 +1,8 @@
 # PyBer Analysis
+Creation of an overall snapshot of the ride-sharing data using various Python libraries. 
 
 ## Project Overview
+This project is carried to determine if there is a correlation between the average fare and the total rides for each city type for the individual scatter plots, and if there is any statistical significance between the different city types for each box-and-whisker plot.
 
 ## Tools
 Python, Matplotlib, NumPy, Pandas, SciPy
